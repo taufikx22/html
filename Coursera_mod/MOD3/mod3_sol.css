@@ -1,0 +1,41 @@
+/* Set background color for the whole page */
+body {
+    background-color: whitesmoke;
+  }
+  
+  /* Style the navigation bar */
+  .navbar-inverse {
+    background-color: black;
+    border: none;
+  }
+
+  .navbar-brand {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  /* Style the menu items */
+  .menu-item {
+    color: white;
+  }
+  
+  /* Style the content boxes */
+  .content-box {
+    background-color: skyblue;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+  }
+
+  .menu_heading {
+    font-size: 69px; /* You can adjust the size accordingly */
+    font-weight: bold;
+  }
+  
+  /* Style the item names */
+  .item-name {
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+  }
+  
